@@ -1,0 +1,12 @@
+com\sbi\hh\Entity\HHPersonDetailsEntity.class
+com\sbi\hh\HH\HhApplication.class
+com\sbi\hh\service\HHPersonDetailsIService.class
+com\sbi\hh\dao\HHPersonDetailsDao.class
+com\sbi\hh\Entity\HHPassportEntity.class
+com\sbi\hh\service\HHPersonService.class
+com\sbi\hh\Entity\GenderEntity.class
+com\sbi\hh\Entity\HHStatusEntity.class
+com\sbi\hh\controller\HHPersonDetailsController.class
+com\sbi\hh\Entity\TitleEntity.class
+com\sbi\hh\Entity\NationalityEntity.class
+com\sbi\hh\Entity\BCD.class
